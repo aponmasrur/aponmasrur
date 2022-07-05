@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masrur4
-- 👀 I’m interested in cyber security, web developing(Backend) and Network administration
-- 🌱 I’m currently learning CCNA,Python
-- 💞️ I’m looking to collaborate on web developing and Networking
+- 👀 I’m interested in cyber security, web developing(Backend) and Network administration.
+- 🌱 I’m currently learning CCNA,Python,PHP and MySQL.
+- 💞️ I’m looking to collaborate on web developing and Networking.
 - 📫 How to reach me...  mail: masrurstrk@gmail.com
 
 <!---
