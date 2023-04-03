@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masrur4
+- 👋 Hi, I’m masrur
 - 👀 I’m interested in cyber security, web developing(Backend) and Network administration.
 - 🌱 I’m currently learning PHP,MySQL,Javascript,Python and CCNA.
 - 💞️ I’m looking to collaborate on web developing and Networking.
